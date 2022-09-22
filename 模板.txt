@@ -1,0 +1,12 @@
+今天是：{{date.DATA}} 
+不管那一天，每一天都是爱你的一天
+当前城市：{{city.DATA}} 
+今天的天气：{{weather.DATA}} 
+最低气温：{{min_temperature.DATA}} 
+最高气温：{{max_temperature.DATA}} 
+今天是我们恋爱的第{{love_day.DATA}}天 
+{{birthday1.DATA}}
+{{birthday2.DATA}} 
+
+{{note_en.DATA}} 
+{{note_ch.DATA}} 

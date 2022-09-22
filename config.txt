@@ -1,0 +1,11 @@
+{
+"app_id": "wxe8d3b74ae7cfb335",
+"app_secret": "74dfe48d8f889df0fd5c8c18349a43f9",
+"template_id": "HHe7KIl0N-QxppVROCt03TLN7IQZSwpfPYS4oRJwkfQ",
+"user": ["o4cHp5_0SjEiXeDU0mf0ODepEjhk","o4cHp570s47kjMXC41dzo97yaj9w"],
+"province": "四川",
+"city": "宜宾",
+"birthday1": {"name": "秋秋", "birthday": "2004-02-11"},
+"birthday2": {"name": "你宝贝", "birthday": "2003-02-09"},
+"love_date": "2021-9-17",
+}
